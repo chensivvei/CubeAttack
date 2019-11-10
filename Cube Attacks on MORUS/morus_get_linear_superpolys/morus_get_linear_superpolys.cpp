@@ -5,7 +5,7 @@
 #include"morus_cubes.h"
 #include"morus_encrypt.h"
 #include"generate_random_value_using_AES.h"
-#define T 0
+#define T 100
 #define n 128
 #define cube_num 111
 state_word c[3] = {
