@@ -8,7 +8,7 @@
 #define R 7          //round
 #define cube_num 229 //the number of cubes
 #define n 256        //the dimension of matrix.
-#define T 0        // for each cube, run T times liearity test
+#define T 100        // for each cube, run T times liearity test
 using namespace std;
 
 struct linear_poly {
